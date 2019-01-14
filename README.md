@@ -1,4 +1,7 @@
 # keylogger
+
+This is for educational purposes only!
+
 Windows Keylogger
 
 Supports:
